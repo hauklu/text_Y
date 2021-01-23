@@ -1,6 +1,6 @@
 <template>
   <div class="mobile-home">
-    home
+    我是首页文字
   </div>
 </template>
 
