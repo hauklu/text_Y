@@ -1,2 +1,0 @@
-webpackJsonp([0],{g4Cp:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"mobile-home"},[this._v("\n  我是江小源的首页\n")])},staticRenderFns:[]};var s=n("VU/8")({},r,!1,function(e){n("uyrT")},null,null);t.default=s.exports},uyrT:function(e,t){}});
-//# sourceMappingURL=0.46e7eb0d9468b154ef60.js.map
