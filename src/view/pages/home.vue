@@ -1,6 +1,6 @@
 <template>
   <div class="mobile-home">
-    我是首页文字
+    我是江小源的首页
   </div>
 </template>
 
